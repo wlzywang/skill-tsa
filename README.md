@@ -1,6 +1,3 @@
-# skill-safety-api
-Safety scanner for Claude Code SKILL.md files,  scripts, templates, and references.
-
 # Skill Safety
 
 **Security scanner for Claude Code skills.** Scan any skill before you install it — get a structured safety report with MITRE ATT&CK-mapped findings, a clear verdict, and a plain-English summary.
@@ -100,6 +97,8 @@ Findings:
   [MEDIUM] exfiltration (T1041) — ui.html:99
     Uses Python or Node.js HTTP libraries to send data to external endpoints
     Evidence: fetch('/backup', { method: 'POST
+
+Final Verdict: BLOCK (8 findings)
 ```
 
 **Deep Scan**
