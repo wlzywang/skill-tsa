@@ -58,11 +58,11 @@ You get: verdict + findings + summary
 
 ## Verdicts
 
-| Risk | Verdict | Recommendation | Meaning |
+| Risk | Meaning | Verdict | Details |
 |---|---|---|---|
-| **NONE** | **safe** | INSTALL | No issues found |
-| LOW/MEDIUM | **suspicious** | REVIEW / CAUTION | Minor or moderate risks detected |
-| HIGH | **unsafe** | BLOCK | Serious security risks — do not install |
+| **NONE** | safe | INSTALL | No issues found |
+| **LOW/MEDIUM** | suspicious | REVIEW / CAUTION | Minor or moderate risks detected |
+| **HIGH** | unsafe | BLOCK | Serious security risks — do not install |
 
 ---
 
