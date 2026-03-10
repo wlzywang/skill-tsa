@@ -4,6 +4,15 @@ This software and its documentation are proprietary and confidential.
 Unauthorized copying, distribution, or use of this software,
 via any medium, is strictly prohibited.
 
-The SkillCheck API is available for commercial use under the following terms:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+GEM WANG SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE
+OF THIS SOFTWARE OR RELIANCE ON ITS SCAN RESULTS.
 
-to launch beginning of March 2026
+SkillScan is available for use through the following channels:
+
+API access (developers):
+  https://rapidapi.com/wlzywang/api/skillscan
+
+Web UI (individuals and teams):
+  
+  (full UI coming soon)
